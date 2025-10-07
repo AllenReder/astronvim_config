@@ -26,3 +26,5 @@ end
 require "lazy_setup"
 require "polish"
 require "clipboard"
+require "keymaps"
+require "options"
